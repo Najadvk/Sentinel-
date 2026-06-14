@@ -27,8 +27,7 @@ Full walkthrough with notes, personal observations, configuration tables, and KQ
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-najadvk-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/najadvk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-najad--portfolio.netlify.app-00C7B7?style=flat&logo=netlify)](https://najad-portfolio.netlify.app)
-[![ThreatLens](https://img.shields.io/badge/ThreatLens-cti--soc.netlify.app-FF6B6B?style=flat&logo=netlify)](https://cti-soc.netlify.app)
+
 
 ---
 
