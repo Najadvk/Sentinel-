@@ -269,4 +269,3 @@ Automation rules eliminate manual triage steps like assigning incidents to the r
 
 ---
 
-*SC-500: Microsoft Cloud and AI Security Engineer | Najad VK*
