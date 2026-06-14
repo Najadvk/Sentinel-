@@ -24,11 +24,4 @@ Full walkthrough with notes, personal observations, configuration tables, and KQ
 
 ---
 
-## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-najadvk-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/najadvk)
-
-
----
-
-*Najad VK — Security Professional | Detection Engineering | Cloud Security | AppSec*
